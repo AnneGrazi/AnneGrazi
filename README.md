@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount&size=35&pause=1000&width=700&lines=Olá%2C+Me+Chamo+Anne+Grazielle!:)" alt="Typing SVG" />
+  </a>
+</h1>
 
-<!--
-**AnneGrazi/AnneGrazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Sobre mim
+
+- 🎓 Estudante de Sistemas de Informação na Unipam, apaixonada por tecnologia.
+- 💡 Interesso-me por Engenharia de Software e Desenvolvimento Front-end.
+- 📚 Estudando **Python**, **AWS**, **JavaScript** e **Terraform**.
+
+---
+
+## 🎯 Objetivos
+
+- 📜 Conquistar a certificação **Solutions Architect - Associate**
+- 🚀 Aprofundar conhecimentos em **DevOps** e práticas de CI/CD.
+- 🏗️ Dominar **Terraform** e infraestrutura como código (IaC).
+
