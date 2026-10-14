@@ -9,7 +9,7 @@
 
 ## 💻 Sobre mim
 
-- 🎓 Estudante de Sistemas de Informação na Unipam, apaixonada por tecnologia.
+- 🎓 Estudante de Sistemas de Informação na Faculdade Senac, curiosa pela tecnologia.
 - 💡 Interesso-me por Engenharia de Software e Desenvolvimento Front-end.
 - 📚 Estudando **Python**, **AWS**, **JavaScript** e **Terraform**.
 
