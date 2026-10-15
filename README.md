@@ -15,6 +15,14 @@
 - 💡 Interesso-me pela área de Front-end.
 - 📚 Estudando **Python**
 
+  ---
+
+## 📞 Contato
+
+- 📧  E-mail: annegomes.network@gmail.com
+- ℹ️ LinkedIn: www.linkedin.com/in/anne-grazielle-gomes
+- 🔎 Lattes: https://lattes.cnpq.br/9664054454880348
+
 ---
 
 ## 🏅 Certificações
