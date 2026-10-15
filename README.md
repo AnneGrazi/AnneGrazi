@@ -29,4 +29,13 @@
 - Curso: Lógica de Programação: Explore Funções e Listas - Alura, 2026
 - Hackathon (1° lugar) - ETE Porto Digital, 2026
 
+ ---
+
+## ⚙️ Ferramentas
+![Windows](https://img.shields.io/badge/Windows-FF69B4?style=flat&logo=windows&logoColor=white&labelColor=36BCF7)
+![SQL](https://img.shields.io/badge/SQL-FF69B4?style=flat&logo=mysql&logoColor=white&labelColor=36BCF7)
+![Python](https://img.shields.io/badge/Python-FF69B4?style=flat&logo=python&logoColor=white&labelColor=36BCF7)
+![Excel](https://img.shields.io/badge/Excel-FF69B4?style=flat&logo=microsoft-excel&logoColor=white&labelColor=36BCF7)
+
+
 
