@@ -9,15 +9,16 @@
 
 ## 💻 Sobre mim
 
-- 🎓 Estudante de Sistemas de Informação na Faculdade Senac, curiosa pela tecnologia.
-- 💡 Interesso-me por Engenharia de Software e Desenvolvimento Front-end.
-- 📚 Estudando **Python**, **AWS**, **JavaScript** e **Terraform**.
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Senac, curiosa pela tecnologia.
+- 🎓 Estudante de Educação Física Licenciatura na Universidade Federal de Pernambuco.
+- 🎓 Técnica em Administração.
+- 💡 Interesso-me pela área de Front-end.
+- 📚 Estudando **Python**
 
 ---
 
-## 🎯 Objetivos
+## 🏅 Certificações
+- Curso: Lógica de Programação: Explore Funções e Listas - Alura, 2026
+- Hackathon (1° lugar) - ETE Porto Digital, 2026
 
-- 📜 Conquistar a certificação **Solutions Architect - Associate**
-- 🚀 Aprofundar conhecimentos em **DevOps** e práticas de CI/CD.
-- 🏗️ Dominar **Terraform** e infraestrutura como código (IaC).
 
