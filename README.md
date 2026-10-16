@@ -13,7 +13,7 @@
 - 🎓 Estudante de Educação Física Licenciatura na Universidade Federal de Pernambuco.
 - 🎓 Técnica em Administração.
 - 💡 Interesso-me pela área de Front-end.
-- 📚 Estudando **Python**
+- 📚 Bolsista de Iniciação Científica FACEPE com estudos sobre "Recomendações de 24h de movimento em  adolescentes e Educação Física escolar: Qual o papel da participação nas aulas para  o atendimento as recomendações?"
 
   ---
 
@@ -32,10 +32,10 @@
  ---
 
 ## ⚙️ Ferramentas
-![Windows](https://img.shields.io/badge/Windows-FF69B4?style=flat&logo=windows&logoColor=white&labelColor=36BCF7)
-![SQL](https://img.shields.io/badge/SQL-FF69B4?style=flat&logo=mysql&logoColor=white&labelColor=36BCF7)
-![Python](https://img.shields.io/badge/Python-FF69B4?style=flat&logo=python&logoColor=white&labelColor=36BCF7)
-![Excel](https://img.shields.io/badge/Excel-FF69B4?style=flat&logo=microsoft-excel&logoColor=white&labelColor=36BCF7)
+![Windows](https://img.shields.io/badge/Windows-00008B?style=flat&logo=windows&logoColor=white&labelColor=36BCF7)
+![SQL](https://img.shields.io/badge/SQL-00008B?style=flat&logo=mysql&logoColor=white&labelColor=36BCF7)
+![Python](https://img.shields.io/badge/Python-00008B?style=flat&logo=python&logoColor=white&labelColor=36BCF7)
+![Excel](https://img.shields.io/badge/Excel-00008B?style=flat&logo=microsoft-excel&logoColor=white&labelColor=36BCF7)
 
 
 
